@@ -457,7 +457,7 @@
 #in2{
 	width: 750px;
 	height: 100px;
-	margin: 20px 5px;
+	margin: 21px 5px;
 	border: 1px #555555 solid;
 }
 #in2::-webkit-input-placeholder{
