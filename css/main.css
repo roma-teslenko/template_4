@@ -38,7 +38,7 @@
 	list-style: none;
 	display: inline-block;
 }
-.navButt ul li a{
+.navButt ul a li{
 	text-decoration: none;
 	letter-spacing: 1px;
 	font-family: "Montserrat-Regular";
@@ -46,7 +46,7 @@
 	color: #fff;
 	margin-left: 35px;
 }
-.navButt ul li a:hover{
+.navButt ul a li:hover{
 	color: #c0301c;
 }
 /*	____________________navigation_end____________________ */
@@ -347,7 +347,7 @@
 .workItem:hover .miniOverlay{
 	opacity: 1;
 }
-.miniOverlay h5{ 
+.miniOverlay h5{
 	font-family: "Montserrat-Regular";
 	font-size: 18px;
 	text-align: center;
@@ -443,12 +443,12 @@
 	letter-spacing: 0.7px;
 	line-height: 1.5;
 	font-weight: none;
-	opacity: 1; 
+	opacity: 1;
 	transition: opacity 0.3s ease;
 	padding-left: 15px;
 }
 #in1:focus::-webkit-input-placeholder{
-	opacity: 0; 
+	opacity: 0;
 	transition: opacity 0.3s ease;
 }
 #in1:focus{
@@ -467,12 +467,12 @@
 	line-height: 1.5;
 	font-weight: none;
 	opacity: 1;
-	text-transform: uppercase; 
+	text-transform: uppercase;
 	transition: opacity 0.3s ease;
 	padding-left: 15px;
 }
 #in2:focus::-webkit-input-placeholder{
-	opacity: 0; 
+	opacity: 0;
 	transition: opacity 0.3s ease;
 }
 #in2:focus{
