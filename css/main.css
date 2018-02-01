@@ -34,11 +34,11 @@
 	display: inline-block;
 	margin-top: 40px;
 }
-.navButt ul li{
+.navButt ul a{
 	list-style: none;
 	display: inline-block;
 }
-.navButt ul a li{
+.navButt ul a{
 	text-decoration: none;
 	letter-spacing: 1px;
 	font-family: "Montserrat-Regular";
@@ -46,7 +46,7 @@
 	color: #fff;
 	margin-left: 35px;
 }
-.navButt ul a li:hover{
+.navButt ul a:hover{
 	color: #c0301c;
 }
 /*	____________________navigation_end____________________ */
